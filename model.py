@@ -1,5 +1,4 @@
 from openai import OpenAI
-client = OpenAI(api_key='KEY')
 import time
 import json
 from IPython.display import HTML
