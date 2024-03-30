@@ -1,4 +1,4 @@
-MovieID,Release Date,Title,Cast,Director,Genres,Vote Average
+MovieID,Release_Date,Title,Cast,Director,Genres,Vote_Average
 1,2014-05-27,Edge of Tomorrow,"Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson",Doug Liman,"Action, Science Fiction",7.616
 2,2013-04-10,Oblivion,"Tom Cruise, Morgan Freeman, Olga Kurylenko, Andrea Riseborough",Joseph Kosinski,"Action, Science Fiction, Adventure, Mystery",6.63
 3,2011-12-07,Mission: Impossible - Ghost Protocol,"Tom Cruise, Paula Patton, Simon Pegg, Jeremy Renner",Brad Bird,"Action, Thriller, Adventure",7.079
